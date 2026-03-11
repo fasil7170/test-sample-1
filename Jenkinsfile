@@ -9,7 +9,7 @@ stages {
 
 stage('Checkout') {
 steps {
-git 'https://github.com/yourrepo/app.git'
+git 'https://github.com/fasil7170/test-sample-1.git'
 }
 }
 
